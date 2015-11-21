@@ -14,6 +14,7 @@ https://drive.google.com/folderview?id=0B1R1s48R-cabME9KUERyNzRkejQ&usp=sharing
 
  - 자녀, 어르신 인지
  - 어르신이 사는 위치(시, 군까지만)
+ - 이앱을 함께 쓰고 있는 자녀가 있는지
 
 
 각각 기능은 3개씩 
